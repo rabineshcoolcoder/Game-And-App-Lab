@@ -1,0 +1,40 @@
+#body
+{
+
+    background-color: rgb(34, 239, 61);
+    text-align: center;
+
+}
+
+#myCarousel
+{
+
+    background-color: red;
+    color: darkblue;
+    height: 300px;
+    margin-top: 35px;
+
+}
+img
+{
+
+    width: 300px;
+
+}
+
+body h1
+{
+
+    border-width: 5px;
+    border-style: dashed;
+    border-color: rgb(186, 114, 26);
+    color: rgb(0, 0, 0);
+
+}
+
+#title
+{
+
+    color: darkmagenta;
+
+}
